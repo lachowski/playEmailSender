@@ -1,7 +1,7 @@
 playEmailSender
 ===============
 
-Project shows how to send email with Apache Common Email and Playframework 2
+Project shows how to send email messages with Apache Common Email and Playframework 2
 
 Configuration
 --------------------
