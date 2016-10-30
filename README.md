@@ -1,4 +1,4 @@
-playEmailSender
+playframeworkEmailSender
 ===============
 
 Project shows how to send email messages with Apache Common Email and Playframework 2
